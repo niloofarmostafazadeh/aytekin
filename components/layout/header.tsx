@@ -45,7 +45,7 @@ export function Header() {
               <span className="text-lg font-bold">AT</span>
             </div>
             <span className="text-xl font-bold text-navy">
-              {isRTL ? "آیتکین ترید" : "Aytekin Trade"}
+              {isRTL ? "آی تکین " : "Aytekin Trade"}
             </span>
           </Link>
 

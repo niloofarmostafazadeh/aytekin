@@ -37,8 +37,8 @@ export default function ContactPage() {
     {
       icon: Phone,
       labelKey: "contact.info.phone",
-      value: "+98 21 1234 5678",
-      href: "tel:+982112345678",
+      value: "+98 09117017589",
+      href: "tel:+9809117017589",
     },
     {
       icon: Mail,
