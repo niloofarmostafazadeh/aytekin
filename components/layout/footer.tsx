@@ -90,7 +90,7 @@ export function Footer() {
                   href="tel:+9809117017589"
                   className="text-primary-foreground/80 hover:text-gold transition-colors text-sm"
                 >
-                  +98 09117017589
+                  09117017589
                 </a>
               </li>
               <li className="flex items-center gap-3">

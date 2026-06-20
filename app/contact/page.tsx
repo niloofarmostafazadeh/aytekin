@@ -37,7 +37,7 @@ export default function ContactPage() {
     {
       icon: Phone,
       labelKey: "contact.info.phone",
-      value: "+98 09117017589",
+      value: "09117017589",
       href: "tel:+9809117017589",
     },
     {
